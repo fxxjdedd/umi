@@ -1,5 +1,6 @@
 {
-  "private": true,
+  "name": "umi",
+  "version": "0.0.1",
   "workspaces": [
     "packages/*"
   ],
